@@ -1,0 +1,6 @@
+framework module Pods_pokemon_uikit {
+  umbrella header "Pods-pokemon-uikit-umbrella.h"
+
+  export *
+  module * { export * }
+}
