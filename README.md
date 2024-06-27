@@ -11,7 +11,7 @@ While developing the app, these libraries are used which can be found in [Podfil
 - SnapKit (for easier programmatic autolayout approach)
 - Kingfisher (for loading images)
 
-## App Information
+## App Information
 
 The app consists of 2 screens.
 
